@@ -1,16 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: kwilliams
- * Date: 10/31/17
- * Time: 9:48 PM
- */
-/**
- * Created by PhpStorm.
- * User: kwilliams
- * Date: 10/30/17
- * Time: 10:37 PM
- */
 //turn on debugging messages
 ini_set('display_errors', 'On');
 error_reporting(E_ALL);
